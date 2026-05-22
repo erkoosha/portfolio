@@ -92,5 +92,20 @@ export const projects: Project[] = [
     category: "Applications",
     tags: ["React", "react-dnd", "TypeScript"],
   },
+    {
+    id: "vitligo-ai",
+    title: {
+      ru: "Витилиго ИИ (сайт Яна Валле)",
+      en: "Vitiligo AI (Yan Valle's Website)",
+    },
+    description: {
+      ru: "Тестовое задание. Интерактивный конструктор форм с использованием react-dnd.",
+      en: "Test task. Interactive form builder built with react-dnd.",
+    },
+    imageUrl: "/projects/6.png",
+    projectUrl: "https://vitiligo.ai/",
+    category: "Applications",
+    tags: ["React", "react-dnd", "TypeScript"],
+  },
 ]
 
